@@ -2,3 +2,6 @@ Elementary School: Kubo Elementary School
 Year Graduated: 2015
 High School: Esperanza National Highschool
 Year Graduated: 2020
+College: Caraga State University Cabadbaran Campus
+Program: Bachelor of Science in Information Technology
+Year Level: 3rd year
